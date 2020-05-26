@@ -6,7 +6,7 @@
 
 # Consul ACL token
 # You could store this token in an encrypted databag, or HashiCorp Vault
-consul_token = "046c3948-23a0-fde0-df55-19adf1e89774"
+consul_token = "YOURTOKENHERE"
 
 # Install the Diplomat Gem https://github.com/WeAreFarmGeek/diplomat
 # You could also use the built in Net::HTTP or HTTParty
