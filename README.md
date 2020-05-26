@@ -1,4 +1,3 @@
 # hashicat
 
-TODO: Enter the cookbook description here.
-
+An Art of the Possible demo showing ways to integrate Chef and Consul
